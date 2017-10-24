@@ -5,18 +5,17 @@
 </script>
 
 <script>
-
 </script>
 
 <head>
 <h1>
-	CollegeRanked
+  CollegeRanked
 </h1>
 </head>
 
 <body onload = 'load'>
-	<p>Rankings of Colleges (2017) from numerous sites across the web</p>
-	<p id = 'table'></p>
+  <p>Rankings of Colleges (2017) from numerous sites across the web</p>
+  <p id = 'table'></p>
 </body>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -25,7 +24,9 @@ $(document).ready(function(){
     $("button").click(function(){
         $.getJSON("./usnews.json", function(result){
             $.each(result, function(i, name){
-                $("div").append(name + " ");
+                uniName = JSON.stringify(name.name).replace(/"/g,'');
+                uniRank = JSON.stringify(name.rank).replace(/"/g,'');
+                $("div").append(uniName+": "+uniRank+"<br>");
             });
         });
     });
