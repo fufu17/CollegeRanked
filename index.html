@@ -21,7 +21,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
-    $("button").click(function(){
         $.getJSON("./usnews.json", function(result){
             $.each(result, function(i, name){
                 uniName = JSON.stringify(name.name).replace(/"/g,'');
@@ -29,11 +28,12 @@ $(document).ready(function(){
                 $("div").append(uniName+": "+uniRank+"<br>");
             });
         });
-    });
 });
 </script>
 
-<button>Get JSON data</button>
+<style>
+
+</style>
 <div></div>
 
 </html>
