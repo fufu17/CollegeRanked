@@ -1,0 +1,202 @@
+[
+{"name": "Stanford University", "rank": "1"}
+{"name": "Harvard University", "rank": "2"}
+{"name": "Massachusetts Institute of Technology", "rank": "3"}
+{"name": "University of Pennsylvania", "rank": "4"}
+{"name": "Columbia University", "rank": "5"}
+{"name": "Yale University", "rank": "6"}
+{"name": "Duke University", "rank": "7"}
+{"name": "Cornell University", "rank": "8"}
+{"name": "Princeton University", "rank": "9"}
+{"name": "Northwestern University", "rank": "10"}
+{"name": "Washington University in St Louis", "rank": "11"}
+{"name": "California Institute of Technology", "rank": "12"}
+{"name": "Johns Hopkins University", "rank": "13"}
+{"name": "University of Chicago", "rank": "14"}
+{"name": "Dartmouth College", "rank": "15"}
+{"name": "Carnegie Mellon University", "rank": "16"}
+{"name": "University of Southern California", "rank": "17"}
+{"name": "Emory University", "rank": "18"}
+{"name": "Brown University", "rank": "19"}
+{"name": "Vanderbilt University", "rank": "20"}
+{"name": "Rice University", "rank": "21"}
+{"name": "University of Michigan", "rank": "22"}
+{"name": "Amherst College", "rank": "=23"}
+{"name": "Williams College", "rank": "=23"}
+{"name": "University of Notre Dame", "rank": "25"}
+{"name": "Georgetown University", "rank": "=26"}
+{"name": "New York University", "rank": "=26"}
+{"name": "University of California, Los Angeles", "rank": "28"}
+{"name": "Wellesley College", "rank": "29"}
+{"name": "University of North Carolina at Chapel Hill", "rank": "30"}
+{"name": "Tufts University", "rank": "31"}
+{"name": "Pomona College", "rank": "32"}
+{"name": "Smith College", "rank": "=33"}
+{"name": "Swarthmore College", "rank": "=33"}
+{"name": "University of California, Berkeley", "rank": "=35"}
+{"name": "Haverford College", "rank": "=35"}
+{"name": "Case Western Reserve University", "rank": "37"}
+{"name": "Boston University", "rank": "38"}
+{"name": "Bryn Mawr College", "rank": "=39"}
+{"name": "Carleton College", "rank": "=39"}
+{"name": "Purdue University", "rank": "=39"}
+{"name": "Middlebury College", "rank": "42"}
+{"name": "University of California, Davis", "rank": "=43"}
+{"name": "University of Miami", "rank": "=43"}
+{"name": "University of Illinois at Urbana-Champaign", "rank": "45"}
+{"name": "Bowdoin College", "rank": "46"}
+{"name": "Wesleyan University", "rank": "47"}
+{"name": "University of California, San Diego", "rank": "48"}
+{"name": "Claremont McKenna College", "rank": "49"}
+{"name": "University of Virginia", "rank": "50"}
+{"name": "Bucknell University", "rank": "51"}
+{"name": "Georgia Institute of Technology", "rank": "=52"}
+{"name": "Lehigh University", "rank": "=52"}
+{"name": "University of Texas at Austin", "rank": "=52"}
+{"name": "Wake Forest University", "rank": "55"}
+{"name": "Tulane University", "rank": "56"}
+{"name": "University of Pittsburgh", "rank": "57"}
+{"name": "Colgate University", "rank": "=58"}
+{"name": "University of Florida", "rank": "=58"}
+{"name": "George Washington University", "rank": "=58"}
+{"name": "University of Rochester", "rank": "=58"}
+{"name": "Michigan State University", "rank": "62"}
+{"name": "University of Wisconsin-Madison", "rank": "63"}
+{"name": "Hamilton College", "rank": "64"}
+{"name": "Davidson College", "rank": "65"}
+{"name": "Colby College", "rank": "=66"}
+{"name": "Oberlin College", "rank": "=66"}
+{"name": "Boston College", "rank": "=68"}
+{"name": "Ohio State University", "rank": "=68"}
+{"name": "Trinity College", "rank": "70"}
+{"name": "Northeastern University", "rank": "71"}
+{"name": "Lafayette College", "rank": "72"}
+{"name": "Macalester College", "rank": "73"}
+{"name": "University of Richmond", "rank": "74"}
+{"name": "University of Washington", "rank": "75"}
+{"name": "Barnard College", "rank": "76"}
+{"name": "Bates College", "rank": "77"}
+{"name": "Vassar College", "rank": "78"}
+{"name": "Worcester Polytechnic Institute", "rank": "79"}
+{"name": "Mount Holyoke College", "rank": "80"}
+{"name": "Grinnell College", "rank": "81"}
+{"name": "Trinity University", "rank": "=82"}
+{"name": "William & Mary", "rank": "=82"}
+{"name": "Brandeis University", "rank": "84"}
+{"name": "College of the Holy Cross", "rank": "=85"}
+{"name": "Rensselaer Polytechnic Institute", "rank": "=85"}
+{"name": "Washington and Lee University", "rank": "=85"}
+{"name": "Southern Methodist University", "rank": "=88"}
+{"name": "Texas A&M University", "rank": "=88"}
+{"name": "Denison University", "rank": "90"}
+{"name": "Scripps College", "rank": "91"}
+{"name": "Franklin and Marshall College", "rank": "92"}
+{"name": "Drexel University", "rank": "93"}
+{"name": "Union College", "rank": "94"}
+{"name": "Kenyon College", "rank": "95"}
+{"name": "University of Maryland, College Park", "rank": "96"}
+{"name": "Rose-Hulman Institute of Technology", "rank": "97"}
+{"name": "DePauw University", "rank": "98"}
+{"name": "University of Minnesota", "rank": "99"}
+{"name": "Connecticut College", "rank": "=100"}
+{"name": "Villanova University", "rank": "=100"}
+{"name": "Occidental College", "rank": "102"}
+{"name": "Syracuse University", "rank": "103"}
+{"name": "Bentley University", "rank": "=104"}
+{"name": "University of Denver", "rank": "=104"}
+{"name": "Santa Clara University", "rank": "=104"}
+{"name": "Howard University", "rank": "=107"}
+{"name": "Pennsylvania State University", "rank": "=107"}
+{"name": "Loyola Marymount University", "rank": "=109"}
+{"name": "Saint Louis University", "rank": "=109"}
+{"name": "Stevens Institute of Technology", "rank": "=109"}
+{"name": "Brigham Young University-Provo", "rank": "=112"}
+{"name": "Dickinson College", "rank": "=112"}
+{"name": "University of California, Santa Barbara", "rank": "114"}
+{"name": "Creighton University", "rank": "115"}
+{"name": "University of Connecticut", "rank": "=116"}
+{"name": "The College of Wooster", "rank": "=116"}
+{"name": "Rutgers, the State University of New Jersey", "rank": "118"}
+{"name": "Rhode Island School of Design", "rank": "119"}
+{"name": "Babson College", "rank": "=120"}
+{"name": "Pepperdine University", "rank": "=120"}
+{"name": "Seattle University", "rank": "=120"}
+{"name": "Gettysburg College", "rank": "123"}
+{"name": "Indiana University", "rank": "=124"}
+{"name": "University of the Pacific", "rank": "=124"}
+{"name": "Furman University", "rank": "126"}
+{"name": "University of Illinois at Chicago", "rank": "=127"}
+{"name": "Illinois Institute of Technology", "rank": "=127"}
+{"name": "Yeshiva University", "rank": "129"}
+{"name": "Spelman College", "rank": "130"}
+{"name": "Allegheny College", "rank": "131"}
+{"name": "Arizona State University", "rank": "132"}
+{"name": "Art Center College of Design", "rank": "133"}
+{"name": "Virginia Polytechnic Institute and State University", "rank": "134"}
+{"name": "Drake University", "rank": "=135"}
+{"name": "Illinois Wesleyan University", "rank": "=135"}
+{"name": "Pitzer College", "rank": "=137"}
+{"name": "Wheaton College (Massachusetts)", "rank": "=137"}
+{"name": "Willamette University", "rank": "=137"}
+{"name": "Gustavus Adolphus College", "rank": "140"}
+{"name": "University of Iowa", "rank": "141"}
+{"name": "University of California, Irvine", "rank": "142"}
+{"name": "Rochester Institute of Technology", "rank": "143"}
+{"name": "St Olaf College", "rank": "=144"}
+{"name": "Stony Brook University", "rank": "=144"}
+{"name": "Marquette University", "rank": "146"}
+{"name": "University at Buffalo", "rank": "=147"}
+{"name": "University of Delaware", "rank": "=147"}
+{"name": "Hobart William Smith Colleges", "rank": "=147"}
+{"name": "Butler University", "rank": "150"}
+{"name": "Loyola University Chicago", "rank": "=151"}
+{"name": "Skidmore College", "rank": "=151"}
+{"name": "Rhodes College", "rank": "153"}
+{"name": "Colorado College", "rank": "=154"}
+{"name": "Ohio Northern University", "rank": "=154"}
+{"name": "Kalamazoo College", "rank": "=156"}
+{"name": "Reed College", "rank": "=156"}
+{"name": "Centre College", "rank": "158"}
+{"name": "American University", "rank": "=159"}
+{"name": "Clarkson University", "rank": "=159"}
+{"name": "North Carolina State University", "rank": "=159"}
+{"name": "University of Puget Sound", "rank": "=159"}
+{"name": "Muhlenberg College", "rank": "=163"}
+{"name": "Rutgers University-Newark", "rank": "=163"}
+{"name": "Elon University", "rank": "165"}
+{"name": "Colorado School of Mines", "rank": "=166"}
+{"name": "Fairfield University", "rank": "=166"}
+{"name": "Florida Institute of Technology", "rank": "=166"}
+{"name": "Bradley University", "rank": "=169"}
+{"name": "Saint Mary's College", "rank": "=169"}
+{"name": "University of the Sciences", "rank": "=169"}
+{"name": "University of Arizona", "rank": "=172"}
+{"name": "Fordham University", "rank": "=172"}
+{"name": "University of Massachusetts-Amherst", "rank": "=172"}
+{"name": "University of Colorado Boulder", "rank": "175"}
+{"name": "University of San Diego", "rank": "=176"}
+{"name": "St Lawrence University", "rank": "=176"}
+{"name": "Loyola University Maryland", "rank": "=178"}
+{"name": "Simmons College", "rank": "=178"}
+{"name": "Albion College", "rank": "=180"}
+{"name": "Lawrence University", "rank": "=180"}
+{"name": "Stonehill College", "rank": "=180"}
+{"name": "Susquehanna University", "rank": "=180"}
+{"name": "Michigan Technological University", "rank": "184"}
+{"name": "University of San Francisco", "rank": "=185"}
+{"name": "Ursinus College", "rank": "=185"}
+{"name": "University of Scranton", "rank": "=187"}
+{"name": "Wofford College", "rank": "=187"}
+{"name": "Baylor University", "rank": "=189"}
+{"name": "Clemson University", "rank": "=189"}
+{"name": "Sewanee-The University of the South", "rank": "=189"}
+{"name": "Siena College", "rank": "=192"}
+{"name": "University of Tulsa", "rank": "=192"}
+{"name": "University of Dayton", "rank": "=194"}
+{"name": "Whitman College", "rank": "=194"}
+{"name": "Knox College", "rank": "196"}
+{"name": "Bryant University", "rank": "=197"}
+{"name": "Lewis & Clark College", "rank": "=197"}
+{"name": "Washington & Jefferson College", "rank": "=197"}
+{"name": "Catholic University of America", "rank": "=200"}
+]
